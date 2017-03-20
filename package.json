@@ -1,0 +1,18 @@
+{
+    "name": "circular-DE-queues",
+    "description": "Benchmark for circular queues",
+    "version": "0.0.0",
+    "keywords": [
+        "data-structure",
+        "deque"
+    ],
+    "scripts": {
+        "start": "node benchmark/benchmark.js"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "benchmark": "~1.0.0"
+    },
+    "readmeFilename": "README.md",
+    "main": "./js/queue.js"
+}
